@@ -2,15 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Alejandro%20Gómez%20Izquierdo&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20de%20Aplicaciones%20Multiplataforma&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/AGomezIzquierdo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Alejandro+👋;Estudiante+de+DAM+en+Sevilla+🎓;Full+Stack+en+formación+💻;Bases+de+datos+%2B+Desarrollo+web+🚀" alt="Typing SVG" />
-</a>
+### 👋 ¡Hola! Soy Alejandro, estudiante de DAM y desarrollador full stack en formación
 
-<br/>
-
-<img src="https://img.shields.io/badge/📍_Montequinto,_Sevilla-1e293b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎓_DAM_·_IES_Hermanos_Machado-1e293b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🇬🇧_English_B2-1e293b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Montequinto,%20Sevilla-1e293b?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/DAM%20·%20IES%20Hermanos%20Machado-1e293b?style=for-the-badge&logo=bookstack&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/English%20B2%20Cambridge-1e293b?style=for-the-badge&logo=googletranslate&logoColor=38bdf8" />
 
 </div>
 
@@ -20,7 +16,7 @@
 
 ```java
 public class AlejandroGomez {
-    String ubicacion   = "Montequinto, Sevilla 🇪🇸";
+    String ubicacion   = "Montequinto, Sevilla";
     String formacion   = "Desarrollo de Aplicaciones Multiplataforma (DAM)";
     String centro      = "I.E.S. Hermanos Machado";
     String practicas   = "Universidad de Sevilla — Bases de datos y Desarrollo web (2026)";
@@ -40,20 +36,32 @@ public class AlejandroGomez {
 
 <div align="center">
 
-### Lenguajes
-<img src="https://skillicons.dev/icons?i=java,python,js,php&theme=dark" />
+**Lenguajes**
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,angular,html,css&theme=dark" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
-### Bases de datos
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+
+**Bases de datos**
+
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
-### Herramientas
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
+**Herramientas**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
 
@@ -63,12 +71,7 @@ public class AlejandroGomez {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AGomezIzquierdo&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGomezIzquierdo&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
-
 <img src="https://streak-stats.demolab.com?user=AGomezIzquierdo&theme=tokyonight&hide_border=true&locale=es" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AGomezIzquierdo&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
