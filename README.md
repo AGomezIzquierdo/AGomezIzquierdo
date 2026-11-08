@@ -27,7 +27,7 @@ public class AlejandroGomez {
 
 - 🔭 Ahora mismo estoy formándome en **desarrollo full stack** y **bases de datos**
 - 🌱 Aprendiendo cada día más sobre **React**, **Angular** y **Docker**
-- 🏛️ En 2026 haré mis prácticas en la **Universidad de Sevilla**
+- 🏛️ En 2026 hice mis prácticas en la **Universidad de Sevilla**
 - ⚡ Me encanta convertir ideas en aplicaciones que funcionan
 
 ---
